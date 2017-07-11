@@ -1,0 +1,17 @@
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\bin\Release\PersonnelDepartment.exe.config
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.csproj.ResolveComReference.cache
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\bin\Release\PersonnelDepartment.exe
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\bin\Release\PersonnelDepartment.pdb
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\bin\Release\MySql.Data.dll
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\bin\Release\MySql.Data.xml
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.aboutForm.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.DepartmentForm.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.JobForm.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.MainForm.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.OperationsForm.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.PersonForm.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.Properties.Resources.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.ScheduleForm.resources
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.exe
+C:\Users\Никита\Desktop\Flash backup\Курсовая 2017\PersonnelDepartment1\PersonnelDepartment\obj\Release\PersonnelDepartment.pdb
